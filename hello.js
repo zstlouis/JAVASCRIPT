@@ -6,6 +6,7 @@ if(1==2){
     console.log("this is some other text")
 }
 
+//changes
 
 let str = "Some text";
 console.log(str.substring(2,6))

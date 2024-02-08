@@ -13,4 +13,8 @@ console.log(str.substring(2,6))
 function add(x, y){
     return x + y;
 }
+
+function substract(x, y){
+    return x - y
+}
 console.log(add(2,3));
